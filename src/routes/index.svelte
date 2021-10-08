@@ -1,5 +1,5 @@
 <script>
-	import successkid from 'images/successkid.jpg';
+	import successkid from 'images/korgi.jpg';
 </script>
 
 <style>
@@ -40,7 +40,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Great korgi!</h1>
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
@@ -48,3 +48,4 @@
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+
