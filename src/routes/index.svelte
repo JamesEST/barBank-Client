@@ -40,7 +40,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great korgi!</h1>
+<h1>Great corgi!</h1>
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
